@@ -1,5 +1,0 @@
-c:\users\dec\documents\visual studio 2013\Projects\CustomWadLoader\WadLoader\bin\Debug\CustomSkinLoader.dll
-c:\users\dec\documents\visual studio 2013\Projects\CustomWadLoader\WadLoader\bin\Debug\CustomSkinLoader.pdb
-c:\users\dec\documents\visual studio 2013\Projects\CustomWadLoader\WadLoader\obj\Debug\CustomSkinLoader.dll
-c:\users\dec\documents\visual studio 2013\Projects\CustomWadLoader\WadLoader\obj\Debug\CustomSkinLoader.pdb
-c:\users\dec\documents\visual studio 2013\Projects\CustomWadLoader\WadLoader\obj\Debug\CustomSkinLoader.csprojResolveAssemblyReference.cache
