@@ -1,0 +1,5 @@
+c:\users\dec\documents\visual studio 2013\Projects\CustomWadLoader\WadLoader\obj\Debug\WadLoader.csprojResolveAssemblyReference.cache
+c:\users\dec\documents\visual studio 2013\Projects\CustomWadLoader\WadLoader\bin\Debug\WadLoader.dll
+c:\users\dec\documents\visual studio 2013\Projects\CustomWadLoader\WadLoader\bin\Debug\WadLoader.pdb
+c:\users\dec\documents\visual studio 2013\Projects\CustomWadLoader\WadLoader\obj\Debug\WadLoader.dll
+c:\users\dec\documents\visual studio 2013\Projects\CustomWadLoader\WadLoader\obj\Debug\WadLoader.pdb

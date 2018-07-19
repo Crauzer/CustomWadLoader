@@ -1,0 +1,8 @@
+c:\users\dec\documents\visual studio 2013\Projects\CustomWadLoader\CustomWadLoader\bin\Debug\CustomWadLoader.exe.config
+c:\users\dec\documents\visual studio 2013\Projects\CustomWadLoader\CustomWadLoader\bin\Debug\CustomWadLoader.exe
+c:\users\dec\documents\visual studio 2013\Projects\CustomWadLoader\CustomWadLoader\bin\Debug\CustomWadLoader.pdb
+c:\users\dec\documents\visual studio 2013\Projects\CustomWadLoader\CustomWadLoader\obj\Debug\CustomWadLoader.exe
+c:\users\dec\documents\visual studio 2013\Projects\CustomWadLoader\CustomWadLoader\obj\Debug\CustomWadLoader.pdb
+c:\users\dec\documents\visual studio 2013\Projects\CustomWadLoader\CustomWadLoader\obj\Debug\CustomWadLoader.csprojResolveAssemblyReference.cache
+c:\users\dec\documents\visual studio 2013\Projects\CustomWadLoader\CustomWadLoader\bin\Debug\CustomSkinLoader.dll
+c:\users\dec\documents\visual studio 2013\Projects\CustomWadLoader\CustomWadLoader\bin\Debug\CustomSkinLoader.pdb
